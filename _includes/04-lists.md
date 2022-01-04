@@ -1,9 +1,9 @@
 Replace this with a list of your favorite things.
 
- *Emoji
+ - Emoji
 
-*Ordered Lists
+- Ordered Lists
 
-*Unordered Lists
+- Unordered Lists
 
-*Favorite place
+- Favorite place
